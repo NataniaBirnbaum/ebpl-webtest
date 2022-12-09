@@ -1,15 +1,15 @@
 html, body {
-  margin: 0;
+  margin: 5px;
   padding: 0;
 }
 canvas {
   display: block;
 }
-body { background-color: lightblue; font-family: "Copperplate Gothic Light"; font-size: 24px;  }
+body { background-color: lightblue; font-family: "Courier"; font-size: 24px;  }
 
-h1 { font-family: "Copperplate Gothic Light", fantasy; text-align: center; color: blueviolet }
-h2 { color: red}
+h1 { font-family: "Courier", fantasy; text-align: center; color: darkgreen }
+h2 { color: brown}
 
-h3 { color: #808080; margin-left: 20px}
+h3 { color: #444; margin-left: 20px}
 
-p {font-family: "Brush Script MT"; font-size: 30px}
+p {font-family: "Arial"; font-size: 30px}
